@@ -1,3 +1,6 @@
 [submodule "pyinstaller"]
 	path = pyinstaller
 	url = git://github.com/pyinstaller/pyinstaller.git
+[submodule "virtual-wine"]
+	path = virtual-wine
+	url = https://github.com/htgoebel/virtual-wine.git
