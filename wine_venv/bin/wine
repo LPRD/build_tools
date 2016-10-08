@@ -11,7 +11,9 @@
 #
 
 exe=$(basename "$0")
-WINEPREFIX=$(readlink -fn '/media/shared/lrk/U_of_M/Research/LPRD/Telemetry-display/build_tools/wine_venv/')
+WINEPREFIX=$( readlink -fn "$(pwd)/$(dirname $(dirname $0))" )
+echo "WINEPREFIX=$WINEPREFIX"
+
 export WINEPREFIX
 
 /usr/bin/$exe "$@"
