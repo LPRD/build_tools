@@ -1,4 +1,4 @@
-#!/media/shared/lrk/U_of_M/Research/LPRD/Telemetry-display/build_tools/linux_venv/bin/python3
+#!/usr/bin/python2.7
 # See http://cens.ioc.ee/projects/f2py2e/
 from __future__ import division, print_function
 
