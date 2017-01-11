@@ -32116,7 +32116,7 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%ALLUSERSPROFILE%\\Pictures"
 "CommonVideo"=str(2):"%ALLUSERSPROFILE%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1484160693
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1484175013
 "@Noto Sans CJK JP Black"="Z:\\usr\\share\\fonts\\opentype\\noto\\NotoSansCJK-Black.ttc"
 "@Noto Sans CJK JP Bold"="Z:\\usr\\share\\fonts\\opentype\\noto\\NotoSansCJK-Bold.ttc"
 "@Noto Sans CJK JP DemiLight"="Z:\\usr\\share\\fonts\\opentype\\noto\\NotoSansCJK-DemiLight.ttc"
@@ -36659,7 +36659,7 @@ WINE REGISTRY Version 2
 
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1464050643
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1484160693
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1484175013
 "@Noto Sans CJK JP Black"="Z:\\usr\\share\\fonts\\opentype\\noto\\NotoSansCJK-Black.ttc"
 "@Noto Sans CJK JP Bold"="Z:\\usr\\share\\fonts\\opentype\\noto\\NotoSansCJK-Bold.ttc"
 "@Noto Sans CJK JP DemiLight"="Z:\\usr\\share\\fonts\\opentype\\noto\\NotoSansCJK-DemiLight.ttc"

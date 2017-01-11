@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/home/krame505/lrk/LPRD/Telemetry-display/build_tools/linux_venv/bin/python3
 #
 # Very simple serial terminal
 #
