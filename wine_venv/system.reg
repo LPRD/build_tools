@@ -49932,8 +49932,8 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%ALLUSERSPROFILE%\\Pictures"
 "CommonVideo"=str(2):"%ALLUSERSPROFILE%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1537331648
-#time=1d44fd2015bc3ec
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1537332244
+#time=1d44fd36456e138
 "@IPAexGothic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\ipaexfont-gothic\\ipaexg.ttf"
 "@IPAexMincho (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\fonts-japanese-mincho.ttf"
 "@IPAGothic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\ipafont-gothic\\ipag.ttf"
@@ -56452,8 +56452,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1464050643
 #time=1d1b5555e560b80
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1537331648
-#time=1d44fd2015bc36a
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1537332244
+#time=1d44fd36456e0ac
 "@IPAexGothic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\ipaexfont-gothic\\ipaexg.ttf"
 "@IPAexMincho (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\fonts-japanese-mincho.ttf"
 "@IPAGothic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\ipafont-gothic\\ipag.ttf"
@@ -63818,8 +63818,8 @@ WINE REGISTRY Version 2
 #time=1d44fd2023467f6
 "DefaultSpoolDirectory"="C:\\windows\\system32\\spool\\printers"
 
-[System\\CurrentControlSet\\Control\\Print\\Printers\\MFC-J450DW] 1537331737
-#time=1d44fd236a981e2
+[System\\CurrentControlSet\\Control\\Print\\Printers\\MFC-J450DW] 1537332329
+#time=1d44fd39715a6d6
 "Attributes"=dword:00000000
 "Datatype"="RAW"
 "Default DevMode"=hex:4d,46,43,2d,4a,34,35,30,44,57,00,00,00,00,00,00,00,00,00,\
@@ -63846,8 +63846,8 @@ WINE REGISTRY Version 2
 "txTimeout"=dword:00000000
 "UntilTime"=dword:00000000
 
-[System\\CurrentControlSet\\Control\\Print\\Printers\\MFCJ450DW] 1537331737
-#time=1d44fd236a98a84
+[System\\CurrentControlSet\\Control\\Print\\Printers\\MFCJ450DW] 1537332329
+#time=1d44fd39715b1da
 "Attributes"=dword:00000000
 "Datatype"="RAW"
 "Default DevMode"=hex:4d,46,43,4a,34,35,30,44,57,00,00,00,00,00,00,00,00,00,00,\

@@ -947,13 +947,13 @@ WINE REGISTRY Version 2
 "OpenWithIcon"="7765_winebrowser.0"
 "ProgID"="xmlfile"
 
-[Software\\Wine\\Fonts] 1537331648
-#time=1d44fd20157cf3a
+[Software\\Wine\\Fonts] 1537332244
+#time=1d44fd364519fa2
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1537331648
-#time=1d44fd2015bc464
+[Software\\Wine\\Fonts\\External Fonts] 1537332244
+#time=1d44fd36456e1c4
 "@IPAexGothic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\ipaexfont-gothic\\ipaexg.ttf"
 "@IPAexMincho (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\fonts-japanese-mincho.ttf"
 "@IPAGothic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\ipafont-gothic\\ipag.ttf"
